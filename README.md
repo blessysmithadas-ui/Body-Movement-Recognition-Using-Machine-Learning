@@ -78,7 +78,7 @@ Repository Structure
 ├── Software_Used.md
 ├── Research_Papers_Reviewed.md
 ├── System_Architecture.png
-└── ESP32_MPU6050_Data_Acquisition.c
+└── ESP32_MPU6050_Basic_Data_Acquisition.c
 
 Team Members
 Gourisankar S,
